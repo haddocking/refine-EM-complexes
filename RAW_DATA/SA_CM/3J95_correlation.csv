@@ -1,0 +1,5 @@
+structure,HADDOCK-score,correlation,atomic-clashes
+3J95_40w.pdb,-1555.8606,0.9289,0
+3J95_11w.pdb,-1543.7745,0.9276,0
+3J95_30w.pdb,-1537.5396,0.9255,0
+3J95_35w.pdb,-1518.9339,0.9314,2

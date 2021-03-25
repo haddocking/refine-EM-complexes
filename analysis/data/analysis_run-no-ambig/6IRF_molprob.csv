@@ -1,0 +1,5 @@
+structure,HADDOCK-score,clashscore,ramaoutliers,rotameroutliers,molprobety-score
+6IRF_4w.pdb,-1336.52521,10.11,1.56,11.71,2.91
+6IRF_5w.pdb,-1318.48558,13.30,1.69,14.58,3.12
+6IRF_27w.pdb,-1316.11594,11.63,1.36,12.19,2.99
+6IRF_36w.pdb,-1309.13157,12.97,1.49,14.73,3.11

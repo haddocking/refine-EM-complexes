@@ -1,0 +1,89 @@
+ATOM      1  X   DUM A DUM      7.8545  -45.25  -6.819                       X
+ATOM      2  X   DUM A DUM       8.727-42.1605-13.0145                       X
+ATOM      3  X   DUM A DUM      8.7395-44.7145  -9.586                       X
+ATOM      4  X   DUM A DUM      8.6395-44.7145-10.3085                       X
+ATOM      5  X   DUM A DUM       7.168-43.9775 -12.708                       X
+ATOM      6  X   DUM A DUM      8.3665 -45.564  -6.368                       X
+ATOM      7  X   DUM A DUM      9.5405-45.5215 -7.0965                       X
+ATOM      8  X   DUM A DUM     10.5105-43.0245  -7.298                       X
+ATOM      9  X   DUM A DUM     20.4735-38.5975 -5.5515                       X
+ATOM     10  X   DUM A DUM      9.5735-44.6355  -6.036                       X
+ATOM     11  X   DUM A DUM      8.7985 -45.081  -6.009                       X
+ATOM     12  X   DUM A DUM      8.5775 -45.591   -8.79                       X
+ATOM     13  X   DUM A DUM       8.802 -45.433 -9.3315                       X
+ATOM     14  X   DUM A DUM      9.9685-44.1975 -6.3795                       X
+ATOM     15  X   DUM A DUM     11.2005-42.7475   -6.14                       X
+ATOM     16  X   DUM A DUM      9.5405-45.5215 -7.0965                       X
+ATOM     17  X   DUM A DUM      10.856 -46.865  -7.904                       X
+ATOM     18  X   DUM A DUM         9.6  -44.63  -5.351                       X
+ATOM     19  X   DUM A DUM      9.1415-45.1185  -6.395                       X
+ATOM     20  X   DUM A DUM       11.29 -40.936  -4.534                       X
+ATOM     21  X   DUM A DUM     11.5235-41.6385  -4.343                       X
+ATOM     22  X   DUM A DUM      12.016-41.8725 -4.7955                       X
+ATOM     23  X   DUM A DUM      10.879-41.3715  -5.547                       X
+ATOM     24  X   DUM A DUM     11.1125 -42.074  -5.356                       X
+ATOM     25  X   DUM A DUM      10.915 -42.585 -6.9665                       X
+ATOM     26  X   DUM A DUM      7.7925-45.7065  -7.412                       X
+ATOM     27  X   DUM A DUM      11.616-42.3095 -5.1285                       X
+ATOM     28  X   DUM A DUM       10.89 -41.373  -4.867                       X
+ATOM     29  X   DUM A DUM     11.1235-42.0755  -4.676                       X
+ATOM     30  X   DUM A DUM       6.563-44.0895 -12.963                       X
+ATOM     31  X   DUM A DUM      5.1665 -44.351 -13.475                       X
+ATOM     32  X   DUM A DUM       11.29 -40.936  -4.534                       X
+ATOM     33  X   DUM A DUM     19.7695-39.8195  -3.658                       X
+ATOM     34  X   DUM A DUM      19.016-40.7475  -3.534                       X
+ATOM     35  X   DUM A DUM     19.3705-40.2065  -3.929                       X
+ATOM     36  X   DUM A DUM     19.2275 -40.185  -4.581                       X
+ATOM     37  X   DUM A DUM     19.8105 -39.588 -5.7675                       X
+ATOM     38  X   DUM A DUM     19.8665 -38.867   -5.53                       X
+ATOM     39  X   DUM A DUM     19.4595-40.0085 -5.2835                       X
+ATOM     40  X   DUM A DUM     19.6025  -40.03 -4.6315                       X
+ATOM     41  X   DUM A DUM     18.3315 -40.955 -3.5575                       X
+ATOM     42  X   DUM A DUM      18.686 -40.414 -3.9525                       X
+ATOM     43  X   DUM A DUM     17.7335-40.7055  -3.229                       X
+ATOM     44  X   DUM A DUM      19.085 -40.027 -3.6815                       X
+ATOM     45  X   DUM A DUM      18.543-40.3925 -4.6045                       X
+ATOM     46  X   DUM A DUM     15.5365-42.4555  -5.335                       X
+ATOM     47  X   DUM A DUM     11.5235-41.6385  -4.343                       X
+ATOM     48  X   DUM A DUM     10.7395 -42.508  -4.324                       X
+ATOM     49  X   DUM A DUM     15.5365-42.4555  -5.335                       X
+ATOM     50  X   DUM A DUM      11.605 -42.308 -5.8085                       X
+ATOM     51  X   DUM A DUM     11.2005-42.7475   -6.14                       X
+ATOM     52  X   DUM A DUM      11.616-42.3095 -5.1285                       X
+ATOM     53  X   DUM A DUM       5.789 -47.905-12.7355                       X
+ATOM     54  X   DUM A DUM      8.3245 -41.948   -11.8                       X
+ATOM     55  X   DUM A DUM       8.789 -41.576-11.9695                       X
+ATOM     56  X   DUM A DUM      8.4155 -42.697 -11.858                       X
+ATOM     57  X   DUM A DUM      19.016-40.7475  -3.534                       X
+ATOM     58  X   DUM A DUM     19.3705-40.2065  -3.929                       X
+ATOM     59  X   DUM A DUM      8.3535-43.2815 -12.903                       X
+ATOM     60  X   DUM A DUM      8.2625-42.5325 -12.845                       X
+ATOM     61  X   DUM A DUM       8.727-42.1605-13.0145                       X
+ATOM     62  X   DUM A DUM     19.7995  -40.77  -3.641                       X
+ATOM     63  X   DUM A DUM     20.1985 -40.383   -3.37                       X
+ATOM     64  X   DUM A DUM     20.1985 -40.383   -3.37                       X
+ATOM     65  X   DUM A DUM      19.085 -40.027 -3.6815                       X
+ATOM     66  X   DUM A DUM     20.0015 -39.643 -4.3605                       X
+ATOM     67  X   DUM A DUM       8.374  -42.49 -12.092                       X
+ATOM     68  X   DUM A DUM      8.8385 -42.118-12.2615                       X
+ATOM     69  X   DUM A DUM       8.465 -43.239  -12.15                       X
+ATOM     70  X   DUM A DUM     19.4595-40.0085 -5.2835                       X
+ATOM     71  X   DUM A DUM      4.9905 -44.125-14.0225                       X
+ATOM     72  X   DUM A DUM       4.441-44.6125 -14.141                       X
+ATOM     73  X   DUM A DUM      10.856 -46.865  -7.904                       X
+ATOM     74  X   DUM A DUM       6.387-43.8635-13.5105                       X
+ATOM     75  X   DUM A DUM       6.563-44.0895 -12.963                       X
+ATOM     76  X   DUM A DUM       12.02-47.7555 -12.184                       X
+ATOM     77  X   DUM A DUM      8.6395-44.7145-10.3085                       X
+ATOM     78  X   DUM A DUM        6.19 -43.834 -14.244                       X
+ATOM     79  X   DUM A DUM      5.6215-44.3125-14.4005                       X
+ATOM     80  X   DUM A DUM       8.465 -43.239  -12.15                       X
+ATOM     81  X   DUM A DUM      8.4155 -42.697 -11.858                       X
+ATOM     82  X   DUM A DUM       7.663-43.5775-13.0525                       X
+ATOM     83  X   DUM A DUM       7.466 -43.548 -13.786                       X
+ATOM     84  X   DUM A DUM      7.2115 -45.223 -6.4905                       X
+ATOM     85  X   DUM A DUM     18.7155 -42.129 -2.7055                       X
+ATOM     86  X   DUM A DUM      8.2625-42.5325 -12.845                       X
+ATOM     87  X   DUM A DUM       7.572-42.8285-12.9945                       X
+ATOM     88  X   DUM A DUM       5.789 -47.905-12.7355                       X
+END

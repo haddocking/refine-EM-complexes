@@ -1,0 +1,230 @@
+ATOM      1  X   DUM A DUM    141.2635142.6905 162.594                       X
+ATOM      2  X   DUM A DUM    142.9715141.8295163.4655                       X
+ATOM      3  X   DUM A DUM    142.9175 142.206162.9805                       X
+ATOM      4  X   DUM A DUM     142.537141.3475163.5925                       X
+ATOM      5  X   DUM A DUM    139.0015146.4825155.6435                       X
+ATOM      6  X   DUM A DUM    136.7795166.9765   152.8                       X
+ATOM      7  X   DUM A DUM     136.249 167.015 152.364                       X
+ATOM      8  X   DUM A DUM     137.846146.8825155.5015                       X
+ATOM      9  X   DUM A DUM    136.9185 147.583155.1815                       X
+ATOM     10  X   DUM A DUM    137.2335146.9565 155.474                       X
+ATOM     11  X   DUM A DUM     137.423 148.152155.1385                       X
+ATOM     12  X   DUM A DUM     137.287166.8445  153.31                       X
+ATOM     13  X   DUM A DUM     138.884 167.798153.6655                       X
+ATOM     14  X   DUM A DUM      140.58166.7355154.9945                       X
+ATOM     15  X   DUM A DUM    139.9985166.7645154.4975                       X
+ATOM     16  X   DUM A DUM     139.977167.2515 153.999                       X
+ATOM     17  X   DUM A DUM     140.001 169.998155.6145                       X
+ATOM     18  X   DUM A DUM     140.806144.6485164.3515                       X
+ATOM     19  X   DUM A DUM    140.7765 145.264 166.187                       X
+ATOM     20  X   DUM A DUM     135.766 148.047155.8465                       X
+ATOM     21  X   DUM A DUM    136.3585147.8425 155.469                       X
+ATOM     22  X   DUM A DUM    136.6735 147.216155.7615                       X
+ATOM     23  X   DUM A DUM     136.863148.4115 155.426                       X
+ATOM     24  X   DUM A DUM    141.1205169.7445157.1395                       X
+ATOM     25  X   DUM A DUM     141.007 168.164158.0705                       X
+ATOM     26  X   DUM A DUM     141.129168.7955157.8975                       X
+ATOM     27  X   DUM A DUM    135.1095 147.967155.5205                       X
+ATOM     28  X   DUM A DUM     135.702147.7625 155.143                       X
+ATOM     29  X   DUM A DUM     136.017 147.136155.4355                       X
+ATOM     30  X   DUM A DUM     134.495147.7825 155.343                       X
+ATOM     31  X   DUM A DUM     134.357 147.575 154.778                       X
+ATOM     32  X   DUM A DUM    136.2065148.3315   155.1                       X
+ATOM     33  X   DUM A DUM     135.891 149.313 153.997                       X
+ATOM     34  X   DUM A DUM    135.4835 149.852154.1295                       X
+ATOM     35  X   DUM A DUM     136.061149.3625153.3435                       X
+ATOM     36  X   DUM A DUM    134.2165 148.043154.1905                       X
+ATOM     37  X   DUM A DUM     134.969 148.435 154.933                       X
+ATOM     38  X   DUM A DUM    135.5615148.2305154.5555                       X
+ATOM     39  X   DUM A DUM     133.633148.1995154.0605                       X
+ATOM     40  X   DUM A DUM      137.62143.0115 161.395                       X
+ATOM     41  X   DUM A DUM     137.664143.5125 161.922                       X
+ATOM     42  X   DUM A DUM    137.0765143.4665162.4035                       X
+ATOM     43  X   DUM A DUM     137.699 144.211161.6175                       X
+ATOM     44  X   DUM A DUM    137.6835142.3625161.5375                       X
+ATOM     45  X   DUM A DUM    137.8395 142.163 162.098                       X
+ATOM     46  X   DUM A DUM    133.4635 147.963 156.451                       X
+ATOM     47  X   DUM A DUM     133.999 147.903 155.917                       X
+ATOM     48  X   DUM A DUM     133.861147.6955 155.352                       X
+ATOM     49  X   DUM A DUM    136.2815142.8165163.0265                       X
+ATOM     50  X   DUM A DUM     135.632142.6435163.1725                       X
+ATOM     51  X   DUM A DUM    134.3675148.3015156.4125                       X
+ATOM     52  X   DUM A DUM     134.982 148.486  156.59                       X
+ATOM     53  X   DUM A DUM    135.5745148.2815156.2125                       X
+ATOM     54  X   DUM A DUM     136.783148.6085156.1345                       X
+ATOM     55  X   DUM A DUM     135.686 148.244 156.555                       X
+ATOM     56  X   DUM A DUM    136.2785148.0395156.1775                       X
+ATOM     57  X   DUM A DUM    136.5935 147.413  156.47                       X
+ATOM     58  X   DUM A DUM    137.9545141.3395 164.299                       X
+ATOM     59  X   DUM A DUM    137.2945141.1665164.4445                       X
+ATOM     60  X   DUM A DUM     136.416 149.551153.6575                       X
+ATOM     61  X   DUM A DUM    136.0085  150.09  153.79                       X
+ATOM     62  X   DUM A DUM     136.586149.6005 153.004                       X
+ATOM     63  X   DUM A DUM    136.2845 150.166 152.758                       X
+ATOM     64  X   DUM A DUM     136.393150.0115 153.089                       X
+ATOM     65  X   DUM A DUM     136.563 150.061152.4355                       X
+ATOM     66  X   DUM A DUM    136.2615150.6265152.1895                       X
+ATOM     67  X   DUM A DUM    135.9155150.9125152.6735                       X
+ATOM     68  X   DUM A DUM     142.319167.9265156.1755                       X
+ATOM     69  X   DUM A DUM     142.355 168.302 156.755                       X
+ATOM     70  X   DUM A DUM    136.2675166.5605152.6875                       X
+ATOM     71  X   DUM A DUM    136.7795166.9765   152.8                       X
+ATOM     72  X   DUM A DUM     137.287166.8445  153.31                       X
+ATOM     73  X   DUM A DUM      141.62 169.289 156.993                       X
+ATOM     74  X   DUM A DUM    141.1205169.7445157.1395                       X
+ATOM     75  X   DUM A DUM      141.62 169.289 156.993                       X
+ATOM     76  X   DUM A DUM     137.755150.4575152.6175                       X
+ATOM     77  X   DUM A DUM    137.4535 151.023152.3715                       X
+ATOM     78  X   DUM A DUM     137.494 150.728153.8605                       X
+ATOM     79  X   DUM A DUM     137.664150.7775 153.207                       X
+ATOM     80  X   DUM A DUM    137.3625 151.343 152.961                       X
+ATOM     81  X   DUM A DUM    142.9715141.8295163.4655                       X
+ATOM     82  X   DUM A DUM       141.8 145.425166.8665                       X
+ATOM     83  X   DUM A DUM     136.897 147.296 154.636                       X
+ATOM     84  X   DUM A DUM     137.212146.6695154.9285                       X
+ATOM     85  X   DUM A DUM    138.9395  145.83155.7385                       X
+ATOM     86  X   DUM A DUM    138.4525 145.575 156.015                       X
+ATOM     87  X   DUM A DUM     141.007 168.164158.0705                       X
+ATOM     88  X   DUM A DUM    141.5065167.7085 157.924                       X
+ATOM     89  X   DUM A DUM    141.4215166.8835156.9285                       X
+ATOM     90  X   DUM A DUM    141.4575 167.259 157.508                       X
+ATOM     91  X   DUM A DUM    135.4475149.3265 158.012                       X
+ATOM     92  X   DUM A DUM     141.129168.7955157.8975                       X
+ATOM     93  X   DUM A DUM    141.6285  168.34 157.751                       X
+ATOM     94  X   DUM A DUM     136.869142.8625 162.545                       X
+ATOM     95  X   DUM A DUM     141.656 168.157156.4725                       X
+ATOM     96  X   DUM A DUM     141.692168.5325 157.052                       X
+ATOM     97  X   DUM A DUM     140.654 169.067 156.763                       X
+ATOM     98  X   DUM A DUM    141.1925 168.988157.1985                       X
+ATOM     99  X   DUM A DUM    136.3605 142.959 163.622                       X
+ATOM    100  X   DUM A DUM     136.494143.4365163.1415                       X
+ATOM    101  X   DUM A DUM    141.0365143.5575163.2115                       X
+ATOM    102  X   DUM A DUM     141.531 143.341162.8955                       X
+ATOM    103  X   DUM A DUM     142.347 167.733155.5895                       X
+ATOM    104  X   DUM A DUM     142.383168.1085 156.169                       X
+ATOM    105  X   DUM A DUM    142.9175 142.206162.9805                       X
+ATOM    106  X   DUM A DUM     135.694 142.614162.7835                       X
+ATOM    107  X   DUM A DUM    135.0445 142.441162.9295                       X
+ATOM    108  X   DUM A DUM     140.001 169.998155.6145                       X
+ATOM    109  X   DUM A DUM     134.479 142.334163.3785                       X
+ATOM    110  X   DUM A DUM     140.994144.1135163.9925                       X
+ATOM    111  X   DUM A DUM    141.1335 143.505 163.964                       X
+ATOM    112  X   DUM A DUM    135.2665 141.915163.6885                       X
+ATOM    113  X   DUM A DUM     134.617 141.742163.8345                       X
+ATOM    114  X   DUM A DUM     134.465 141.756164.4345                       X
+ATOM    115  X   DUM A DUM    138.4635144.9095169.1585                       X
+ATOM    116  X   DUM A DUM    139.8575 145.059 168.112                       X
+ATOM    117  X   DUM A DUM    139.1395145.2175168.3065                       X
+ATOM    118  X   DUM A DUM     138.779144.7535168.5205                       X
+ATOM    119  X   DUM A DUM     140.509 145.111 168.001                       X
+ATOM    120  X   DUM A DUM     139.791145.2695168.1955                       X
+ATOM    121  X   DUM A DUM    139.4305144.8055168.4095                       X
+ATOM    122  X   DUM A DUM    135.5815 141.397163.4175                       X
+ATOM    123  X   DUM A DUM     134.932 141.224163.5635                       X
+ATOM    124  X   DUM A DUM     140.042145.1195 167.601                       X
+ATOM    125  X   DUM A DUM    139.8415 145.708  167.55                       X
+ATOM    126  X   DUM A DUM    135.1235140.6625 163.983                       X
+ATOM    127  X   DUM A DUM    134.3675148.3015156.4125                       X
+ATOM    128  X   DUM A DUM    134.2165 148.043154.1905                       X
+ATOM    129  X   DUM A DUM     134.357 147.575 154.778                       X
+ATOM    130  X   DUM A DUM     133.633148.1995154.0605                       X
+ATOM    131  X   DUM A DUM    136.9585 142.839161.5375                       X
+ATOM    132  X   DUM A DUM    137.0025  143.34162.0645                       X
+ATOM    133  X   DUM A DUM     136.415 143.294 162.546                       X
+ATOM    134  X   DUM A DUM    137.0375144.0385  161.76                       X
+ATOM    135  X   DUM A DUM    135.8275143.0915 162.303                       X
+ATOM    136  X   DUM A DUM     137.178141.9905162.2405                       X
+ATOM    137  X   DUM A DUM     137.022  142.19  161.68                       X
+ATOM    138  X   DUM A DUM    140.6295143.5155162.9385                       X
+ATOM    139  X   DUM A DUM    141.1205 166.655 155.429                       X
+ATOM    140  X   DUM A DUM    134.6135148.0875156.0945                       X
+ATOM    141  X   DUM A DUM     134.982 148.486  156.59                       X
+ATOM    142  X   DUM A DUM     135.686 148.244 156.555                       X
+ATOM    143  X   DUM A DUM     135.206 147.883 155.717                       X
+ATOM    144  X   DUM A DUM     136.897 147.296 154.636                       X
+ATOM    145  X   DUM A DUM    135.5745148.2815156.2125                       X
+ATOM    146  X   DUM A DUM    136.2785148.0395156.1775                       X
+ATOM    147  X   DUM A DUM     137.212146.6695154.9285                       X
+ATOM    148  X   DUM A DUM    136.5935 147.413  156.47                       X
+ATOM    149  X   DUM A DUM     137.286 147.142 155.789                       X
+ATOM    150  X   DUM A DUM    138.4525 145.575 156.015                       X
+ATOM    151  X   DUM A DUM    137.8245146.5955 154.956                       X
+ATOM    152  X   DUM A DUM     138.153142.7115 161.731                       X
+ATOM    153  X   DUM A DUM     138.197143.2125 162.258                       X
+ATOM    154  X   DUM A DUM    138.2165142.0625161.8735                       X
+ATOM    155  X   DUM A DUM    138.3725 141.863 162.434                       X
+ATOM    156  X   DUM A DUM     137.423 148.152155.1385                       X
+ATOM    157  X   DUM A DUM     136.863148.4115 155.426                       X
+ATOM    158  X   DUM A DUM    136.2065148.3315   155.1                       X
+ATOM    159  X   DUM A DUM     136.066148.7995154.5125                       X
+ATOM    160  X   DUM A DUM     136.591149.0375 154.173                       X
+ATOM    161  X   DUM A DUM     137.494 150.728153.8605                       X
+ATOM    162  X   DUM A DUM     136.688 148.925154.9105                       X
+ATOM    163  X   DUM A DUM     141.231 143.603164.2435                       X
+ATOM    164  X   DUM A DUM    140.9245 142.498 164.586                       X
+ATOM    165  X   DUM A DUM    141.3705142.9945 164.215                       X
+ATOM    166  X   DUM A DUM     141.865 142.778 163.899                       X
+ATOM    167  X   DUM A DUM     137.664150.7775 153.207                       X
+ATOM    168  X   DUM A DUM    137.2675150.1385 152.148                       X
+ATOM    169  X   DUM A DUM    135.9155150.9125152.6735                       X
+ATOM    170  X   DUM A DUM    138.9295142.0865164.3745                       X
+ATOM    171  X   DUM A DUM    137.3625 151.343 152.961                       X
+ATOM    172  X   DUM A DUM     135.792150.4155151.6235                       X
+ATOM    173  X   DUM A DUM     136.966 150.704 151.902                       X
+ATOM    174  X   DUM A DUM     138.221141.3795 162.913                       X
+ATOM    175  X   DUM A DUM     138.065 141.579162.3525                       X
+ATOM    176  X   DUM A DUM    137.9545141.3395 164.299                       X
+ATOM    177  X   DUM A DUM     140.769 142.907  162.91                       X
+ATOM    178  X   DUM A DUM    140.0405 142.724 163.073                       X
+ATOM    179  X   DUM A DUM     137.405 141.406 162.498                       X
+ATOM    180  X   DUM A DUM    136.8885141.7125162.1605                       X
+ATOM    181  X   DUM A DUM    135.2665 141.915163.6885                       X
+ATOM    182  X   DUM A DUM     136.825142.3615 162.018                       X
+ATOM    183  X   DUM A DUM     136.869142.8625 162.545                       X
+ATOM    184  X   DUM A DUM    136.2815142.8165163.0265                       X
+ATOM    185  X   DUM A DUM     135.694 142.614162.7835                       X
+ATOM    186  X   DUM A DUM     134.479 142.334163.3785                       X
+ATOM    187  X   DUM A DUM     134.617 141.742163.8345                       X
+ATOM    188  X   DUM A DUM     134.465 141.756164.4345                       X
+ATOM    189  X   DUM A DUM     135.632142.6435163.1725                       X
+ATOM    190  X   DUM A DUM    135.0445 142.441162.9295                       X
+ATOM    191  X   DUM A DUM    140.9105 145.312168.4885                       X
+ATOM    192  X   DUM A DUM    138.5095146.9595 155.876                       X
+ATOM    193  X   DUM A DUM     136.203165.5455153.4815                       X
+ATOM    194  X   DUM A DUM    140.9245 142.498 164.586                       X
+ATOM    195  X   DUM A DUM     139.443 141.744 163.923                       X
+ATOM    196  X   DUM A DUM    141.0355145.4255 166.858                       X
+ATOM    197  X   DUM A DUM    136.1025 166.948150.9195                       X
+ATOM    198  X   DUM A DUM    135.4675 166.657 151.032                       X
+ATOM    199  X   DUM A DUM      140.76 144.961167.4065                       X
+ATOM    200  X   DUM A DUM    139.8575 145.059 168.112                       X
+ATOM    201  X   DUM A DUM     140.509 145.111 168.001                       X
+ATOM    202  X   DUM A DUM    140.9105 145.312168.4885                       X
+ATOM    203  X   DUM A DUM    141.1205 166.655 155.429                       X
+ATOM    204  X   DUM A DUM      140.58166.7355154.9945                       X
+ATOM    205  X   DUM A DUM    139.1395145.2175168.3065                       X
+ATOM    206  X   DUM A DUM     139.791145.2695168.1955                       X
+ATOM    207  X   DUM A DUM     138.939 145.806168.2555                       X
+ATOM    208  X   DUM A DUM    139.5905 145.858168.1445                       X
+ATOM    209  X   DUM A DUM    139.8415 145.708  167.55                       X
+ATOM    210  X   DUM A DUM    138.3165143.1765 168.288                       X
+ATOM    211  X   DUM A DUM    138.0785 143.193  167.72                       X
+ATOM    212  X   DUM A DUM     138.779144.7535168.5205                       X
+ATOM    213  X   DUM A DUM    139.4305144.8055168.4095                       X
+ATOM    214  X   DUM A DUM    136.2675166.5605152.6875                       X
+ATOM    215  X   DUM A DUM     135.737 166.599152.2515                       X
+ATOM    216  X   DUM A DUM    138.2165142.0625161.8735                       X
+ATOM    217  X   DUM A DUM    137.6835142.3625161.5375                       X
+ATOM    218  X   DUM A DUM     137.022  142.19  161.68                       X
+ATOM    219  X   DUM A DUM    140.6295143.5155162.9385                       X
+ATOM    220  X   DUM A DUM     140.806144.6485164.3515                       X
+ATOM    221  X   DUM A DUM      141.55 144.345162.9515                       X
+ATOM    222  X   DUM A DUM     140.897 144.166  163.24                       X
+ATOM    223  X   DUM A DUM     137.561141.2065163.0585                       X
+ATOM    224  X   DUM A DUM    137.0445 141.513 162.721                       X
+ATOM    225  X   DUM A DUM     137.178141.9905162.2405                       X
+ATOM    226  X   DUM A DUM    138.3725 141.863 162.434                       X
+ATOM    227  X   DUM A DUM    137.8395 142.163 162.098                       X
+ATOM    228  X   DUM A DUM     138.739 141.332 157.831                       X
+ATOM    229  X   DUM A DUM     136.825142.3615 162.018                       X
+END

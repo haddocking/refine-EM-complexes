@@ -1,0 +1,5 @@
+structure,HADDOCK-score,clashscore,ramaoutliers,rotameroutliers,molprobety-score
+3J95_40w.pdb,-1555.8606,16.24,2.40,14.04,3.14
+3J95_11w.pdb,-1543.7745,15.80,2.01,13.59,3.09
+3J95_30w.pdb,-1537.5396,16.13,2.29,13.19,3.09
+3J95_35w.pdb,-1518.9339,15.52,2.33,14.48,3.12

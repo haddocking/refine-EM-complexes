@@ -1,0 +1,5 @@
+structure,HADDOCK-score,correlation,atomic-clashes
+6UC0_18w.pdb,-1332.1566,0.9312,0
+6UC0_44w.pdb,-1306.1917,0.9295,0
+6UC0_36w.pdb,-1300.9703,0.9307,0
+6UC0_13w.pdb,-1300.8517,0.9332,1
