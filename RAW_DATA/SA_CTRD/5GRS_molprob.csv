@@ -1,0 +1,5 @@
+structure,HADDOCK-score,clashscore,ramaoutliers,rotameroutliers,molprobety-score
+5GRS_46w.pdb,-2330.16982,10.42,1.94,15.19,3.00
+5GRS_26w.pdb,-2298.586272,10.57,1.82,14.31,2.98
+5GRS_45w.pdb,-2290.704539,10.09,1.62,14.97,2.98
+5GRS_42w.pdb,-2290.46464,10.72,1.78,14.88,2.99
