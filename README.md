@@ -10,4 +10,4 @@ contains the reference models which are used as dataset.\
 **pymol_scripts**
 contains the pymolscripts used to generate the clash figures for the manuscript.\
 **top4_structures**
-contains the top 4 models from each refinement protocol.\
+contains the top 4 models from each refinement protocol.
