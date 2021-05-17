@@ -1,5 +1,5 @@
-load ../../dataset/6UBY.pdb
-load ../../top4_structures/SA_CTRD/6UBY_1.pdb
+load structures/6UBY.pdb
+load structures/6UBY_1.pdb
 align 6UBY , 6UBY_1
 load structures/6UBY_clash.pdb
 load structures/6UBY_declash.pdb

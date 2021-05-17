@@ -1,5 +1,5 @@
-load ../../dataset/6R7I.pdb
-load ../../top4_structures/SA_CTRD/6R7I_1.pdb
+load structures/6R7I.pdb
+load structures/6R7I_1.pdb
 align 6R7I , 6R7I_1
 load structures/6R7I_clash.pdb
 load structures/6R7I_declash.pdb
