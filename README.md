@@ -4,9 +4,6 @@ Repository containing the data set, analysis results and scripts associated with
 ***
 
 ### Content
-
-***
-
 #### RAW_DATA
 contains CSV files used for the analysis of the protocols, generated from the top 4 models.
 #### analysis
