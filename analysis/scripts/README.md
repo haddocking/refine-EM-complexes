@@ -21,4 +21,8 @@ Running this script is done via the terminal:
 
 ### Molprobity
 
+To calculate Ramachandran outliers, rotemer outliers and the clashscore, [Molprobity](http://molprobity.biochem.duke.edu) was used with default settings.
+
 ### Secondary structure
+
+Secondary structure elements were calculated using [stride](http://webclu.bio.wzw.tum.de/stride/) using default settings. 
