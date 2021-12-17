@@ -1,0 +1,5 @@
+structure,peptide-outlier-percent,peptide-bad-outlier-percent,ca-outlier-percent
+6N8Z_36w.pdb,11.4,4.1,1.06
+6N8Z_8w.pdb,11.9,4.1,1.01
+6N8Z_32w.pdb,11.7,4.1,1.11
+6N8Z_49w.pdb,11.3,4.2,1.11

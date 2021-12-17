@@ -1,0 +1,5 @@
+structure,peptide-outlier-percent,peptide-bad-outlier-percent,ca-outlier-percent
+5HNY_43w.pdb,13.3,5.3,0.80
+5HNY_35w.pdb,13.2,5.3,0.98
+5HNY_50w.pdb,13.0,5.7,0.98
+5HNY_39w.pdb,14.0,5.5,1.07

@@ -1,0 +1,5 @@
+structure,peptide-outlier-percent,peptide-bad-outlier-percent,ca-outlier-percent
+6ACG_34w.pdb,17.2,6.9,1.72
+6ACG_9w.pdb,17.4,7.4,1.66
+6ACG_49w.pdb,17.1,7.0,1.69
+6ACG_50w.pdb,17.2,7.1,1.66

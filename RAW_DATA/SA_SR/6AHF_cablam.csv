@@ -1,0 +1,5 @@
+structure,peptide-outlier-percent,peptide-bad-outlier-percent,ca-outlier-percent
+6AHF_1w.pdb,27.9,13.9,3.85
+6AHF_19w.pdb,27.9,13.9,3.69
+6AHF_29w.pdb,28.2,14.0,3.83
+6AHF_3w.pdb,27.8,13.9,3.73

@@ -1,0 +1,5 @@
+structure,peptide-outlier-percent,peptide-bad-outlier-percent,ca-outlier-percent
+5GRS_30w.pdb,11.7,4.2,0.70
+5GRS_38w.pdb,11.3,4.4,0.70
+5GRS_39w.pdb,12.0,4.6,0.66
+5GRS_10w.pdb,12.0,4.3,0.62

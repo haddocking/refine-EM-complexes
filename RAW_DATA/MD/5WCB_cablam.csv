@@ -1,0 +1,5 @@
+structure,peptide-outlier-percent,peptide-bad-outlier-percent,ca-outlier-percent
+5WCB_30w.pdb,11.6,4.0,1.21
+5WCB_21w.pdb,11.4,4.0,1.15
+5WCB_24w.pdb,12.2,4.1,1.21
+5WCB_46w.pdb,11.4,4.2,1.47
