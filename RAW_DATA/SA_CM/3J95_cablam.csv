@@ -1,0 +1,5 @@
+structure,peptide-outlier-percent,peptide-bad-outlier-percent,ca-outlier-percent
+3J95_40w.pdb,10.5,4.6,1.33
+3J95_11w.pdb,10.7,4.4,1.22
+3J95_30w.pdb,10.4,4.1,1.15
+3J95_35w.pdb,11.0,4.4,1.15

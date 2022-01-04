@@ -19,19 +19,26 @@ This script uses a reference model which is prepositioned in the density map.
 Running this script is done via the terminal:  
 `chimera --nogui --script "CCcalculate_wref.py <model> <reference-model> <density-map> <resolution>`
 
-### Molprobity
+### Molprobity and CABLAM
 
-To calculate Ramachandran outliers, rotamer outliers and the clash score, [Molprobity](http://molprobity.biochem.duke.edu) was used with default settings.
+To calculate CA outliers, Ramachandran outliers, rotamer outliers and the clash score, [Molprobity](http://molprobity.biochem.duke.edu) was used with default settings.
 
 ### Secondary structure
 
 Secondary structure elements were calculated using [stride](http://webclu.bio.wzw.tum.de/stride/) using default settings.
 
+### PI score
+
+Protein interface scores were calculated using [pi_score](https://gitlab.com/topf-lab/pi_score) using default settings.
+
+
+
 ---
 
 ## Jupiter notebooks used to analyse the raw data and generate the plots
 
-* ***Clash_probescore_CC.ipynb***: contains the analyses of the intermolecular clashes, probescore and cross-correlation.  
+* ***Clash_probescore_CC.ipynb***: contains the analyses of the intermolecular clashes, probescore, PI score and cross-correlation.  
 * ***Computational_load.ipynb***: contains the analyses of the computational load of each protocol.  
 * ***Molprobity.ipynb***: contains the analysis of the rotamer outliers, ramachandran outliers and clashscore.  
 * ***stride.ipynb***: contains the analysis of the secondary structure elements
+* ***cablam.ipynb***: contains the analysis of the CA outliers

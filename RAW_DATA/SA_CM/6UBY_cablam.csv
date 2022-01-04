@@ -1,0 +1,5 @@
+structure,peptide-outlier-percent,peptide-bad-outlier-percent,ca-outlier-percent
+6UBY_28w.pdb,6.5,2.5,0.26
+6UBY_10w.pdb,6.5,2.5,0.26
+6UBY_48w.pdb,6.5,2.5,0.26
+6UBY_16w.pdb,6.5,2.5,0.26

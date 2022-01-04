@@ -1,0 +1,5 @@
+structure,peptide-outlier-percent,peptide-bad-outlier-percent,ca-outlier-percent
+6IRF_23w.pdb,12.6,4.4,1.25
+6IRF_5w.pdb,13.5,4.6,1.25
+6IRF_4w.pdb,12.8,4.6,1.28
+6IRF_39w.pdb,12.8,4.2,1.25
