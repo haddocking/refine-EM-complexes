@@ -21,7 +21,7 @@ Running this script is done via the terminal:
 
 ### Molprobity and CABLAM
 
-To calculate C$\alpha$ outliers, Ramachandran outliers, rotamer outliers and the clash score, [Molprobity](http://molprobity.biochem.duke.edu) was used with default settings.
+To calculate CA outliers, Ramachandran outliers, rotamer outliers and the clash score, [Molprobity](http://molprobity.biochem.duke.edu) was used with default settings.
 
 ### Secondary structure
 
@@ -33,7 +33,8 @@ Secondary structure elements were calculated using [stride](http://webclu.bio.wz
 
 ## Jupiter notebooks used to analyse the raw data and generate the plots
 
-* ***Clash_probescore_CC.ipynb***: contains the analyses of the intermolecular clashes, probescore and cross-correlation.  
+* ***Clash_probescore_CC.ipynb***: contains the analyses of the intermolecular clashes, probescore, PI score and cross-correlation.  
 * ***Computational_load.ipynb***: contains the analyses of the computational load of each protocol.  
 * ***Molprobity.ipynb***: contains the analysis of the rotamer outliers, ramachandran outliers and clashscore.  
 * ***stride.ipynb***: contains the analysis of the secondary structure elements
+* ***cablam.ipynb***: contains the analysis of the CA outliers
