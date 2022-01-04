@@ -19,13 +19,15 @@ This script uses a reference model which is prepositioned in the density map.
 Running this script is done via the terminal:  
 `chimera --nogui --script "CCcalculate_wref.py <model> <reference-model> <density-map> <resolution>`
 
-### Molprobity
+### Molprobity and CABLAM
 
-To calculate Ramachandran outliers, rotamer outliers and the clash score, [Molprobity](http://molprobity.biochem.duke.edu) was used with default settings.
+To calculate C$\alpha$ outliers, Ramachandran outliers, rotamer outliers and the clash score, [Molprobity](http://molprobity.biochem.duke.edu) was used with default settings.
 
 ### Secondary structure
 
 Secondary structure elements were calculated using [stride](http://webclu.bio.wzw.tum.de/stride/) using default settings.
+
+
 
 ---
 
