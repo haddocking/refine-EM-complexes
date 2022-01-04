@@ -27,6 +27,10 @@ To calculate CA outliers, Ramachandran outliers, rotamer outliers and the clash 
 
 Secondary structure elements were calculated using [stride](http://webclu.bio.wzw.tum.de/stride/) using default settings.
 
+### PI score
+
+Protein interface scores were calculated using [pi_score](https://gitlab.com/topf-lab/pi_score) using default settings.
+
 
 
 ---
